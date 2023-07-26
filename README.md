@@ -1,7 +1,9 @@
 # Orange Pi Products  
+I want to buy one but I don't which one
 Amount of products described here: 39  
 ## Todo  
-* add tables that compare the hardware  
+* fix compare hardware  table
+  little bit broke right now: [Comparasion Table](./compare_table.md) 
 
 ## Table of Contents  
 - [Orange Pi 2G Iot](#orange-pi-2g-iot)  
