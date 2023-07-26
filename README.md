@@ -3,8 +3,8 @@ I want to buy one but I don't which one
 Amount of products described here: 39  
 ## Todo  
 * fix compare hardware  table
-  little bit broke right now: [Comparasion Table](./compare_table.md) 
-  I think this one almost complete: [Zero Series Comparasion Table](./zero_seriers_compare_table.md) 
+  little bit broke right now: [Comparasion Table](./compare_table.md)   
+  * I think this one almost complete: [Zero Series Comparasion Table](./zero_seriers_compare_table.md)   
 
 ## Table of Contents  
 - [Orange Pi 2G Iot](#orange-pi-2g-iot)  
